@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**henmadx/henmadx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**haeksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![henmadx's github stats](https://github-readme-stats.vercel.app/api?username=HenHashi&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![henmadx's github stats](https://github-readme-stats.vercel.app/api?username=haeksha&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
